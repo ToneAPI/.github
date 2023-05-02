@@ -16,4 +16,4 @@ The [server mod](https://github.com/ToneAPI/ToneAPI_servermod) allows servers ho
 Once installed, this mod will send data to the API every time a player dies.
 
 ## Dev
-[The documentation](https://toneapi.github.io/ToneAPI_backend/) will help you if you want to access the API to create web clients, discord bot or any other kind of application
+[The documentation](https://toneapi.github.io/ToneAPI_backend/) will help you if you want to access the API to create web clients, discord bots or any other kind of application
