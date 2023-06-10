@@ -7,7 +7,7 @@ The following projects allow users to visualize the data:
 |Client                                                                      |Platform              |
 |----------------------------------------------------------------------------|----------------------|
 |[ToneAPI_webclient](https://github.com/ToneAPI/ToneAPI_webclient)           |Webapp                |
-|[Pulse](https://github.com/ToneAPI/pulse)                                   |Northstar Client mod  |
+|[pulse](https://github.com/ToneAPI/pulse)                                   |Northstar Client mod  |
 |[Sonar](https://github.com/ToneAPI/Sonar)                                   |Discord bot           |
 
 ## Server
