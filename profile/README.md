@@ -1,3 +1,6 @@
+![Discord Banner 3](https://discordapp.com/api/guilds/1100149380763373608/widget.png?style=banner3)
+
+
 # What is Tone ?
 Tone is an unofficial API for collecting and processing [Northstar](https://northstar.tf/) player statistics.
 
