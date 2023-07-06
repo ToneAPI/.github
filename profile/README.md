@@ -1,4 +1,4 @@
-![Discord Banner 3](https://discordapp.com/api/guilds/1100149380763373608/widget.png?style=banner3)
+![Discord Banner 3](https://discordapp.com/api/guilds/1100149380763373608/widget.png?style=banner1)
 
 
 # What is Tone ?
