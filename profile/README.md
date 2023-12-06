@@ -1,4 +1,5 @@
-[![Discord Banner 3](https://discordapp.com/api/guilds/1100149380763373608/widget.png?style=banner1)](https://discord.gg/2jZ5KuZSJS)
+# Disclaimer
+This project isn't maintained anymore
 
 
 # What is Tone ?
