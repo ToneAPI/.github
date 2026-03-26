@@ -1,5 +1,11 @@
+> Due to Microslop business decisions I migrated the repos to a private archive
+
+Ask me on Matrix (@legonzaur:multirat.fr) or Discord (@legonzaur) if you want them it sent to you
+
 # Disclaimer
 This project isn't maintained anymore
+
+
 
 
 # What is Tone ?
