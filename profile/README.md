@@ -1,4 +1,4 @@
-> Due to Microslop business decisions I migrated the repos to a private archive
+> Due to Microslop business decisions I migrated the repos to another archive
 
 Ask me on Matrix (@legonzaur:multirat.fr) or Discord (@legonzaur) if you want them it sent to you
 
